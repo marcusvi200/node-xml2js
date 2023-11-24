@@ -54,7 +54,8 @@
     "Nicolas Maquet (https://github.com/nmaquet)",
     "Lovell Fuller (http://lovell.info/)",
     "d3adc0d3 (https://github.com/d3adc0d3)",
-    "James Crosby (https://github.com/autopulated)"
+    "James Crosby (https://github.com/autopulated)",
+    "Marcus Vinicius <marcusvi200@gmail.com> (https://github.com/marcusvi200)"
   ],
   "main": "./lib/xml2js",
   "files": [
